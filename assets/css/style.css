@@ -1,0 +1,12 @@
+.header{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.actionBlock{
+    background-color: white;
+    color: black;
+    border: solid 4px blue;
+    border-radius: 10px;
+    text-align: center;
+}
